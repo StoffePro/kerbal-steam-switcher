@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kerbal-steam-switcher", "kerbal-steam-switcher.vcxproj", "{0EB3C85F-1B8B-49EB-B62D-501A45879827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB3C85F-1B8B-49EB-B62D-501A45879827}.Debug|x64.ActiveCfg = Debug|x64
+		{0EB3C85F-1B8B-49EB-B62D-501A45879827}.Debug|x64.Build.0 = Debug|x64
+		{0EB3C85F-1B8B-49EB-B62D-501A45879827}.Debug|x86.ActiveCfg = Debug|Win32
+		{0EB3C85F-1B8B-49EB-B62D-501A45879827}.Debug|x86.Build.0 = Debug|Win32
+		{0EB3C85F-1B8B-49EB-B62D-501A45879827}.Release|x64.ActiveCfg = Release|x64
+		{0EB3C85F-1B8B-49EB-B62D-501A45879827}.Release|x64.Build.0 = Release|x64
+		{0EB3C85F-1B8B-49EB-B62D-501A45879827}.Release|x86.ActiveCfg = Release|Win32
+		{0EB3C85F-1B8B-49EB-B62D-501A45879827}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2C062B9-B59D-4564-80EA-54EF3EB4986E}
+	EndGlobalSection
+EndGlobal
