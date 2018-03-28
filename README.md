@@ -13,14 +13,14 @@ than I absolutely need to.
 
 
 # dependencies
-steam-switcher-wrapper-thingy.exe reads installation dirs from CKAN,
+kerbal-steam-switcher.exe reads installation dirs from CKAN,
 so you need to have all your installs belong to CKAN. 
 
 
 # installation
-- Copy steam-switcher-wrapper-thingy.exe to a folder of your choosing 
+- Copy kerbal-steam-switcher.exe to a folder of your choosing 
 - In your steam library
     - right click Kerbal
     - Set Launch Options
-    - "C:\path\to\steam-switcher-wrapper-thingy.exe" %command%
+    - "C:\path\to\kerbal-steam-switcher.exe" %command%
 
